@@ -5,3 +5,8 @@
 2.存入本地数据库
 3.翻译收藏
 
+![Image text](https://github.com/XiaoAnXA/music_flutter/tree/master/youdaoflutter/Screenshot_1584941218.png)
+![Image text](https://github.com/XiaoAnXA/music_flutter/tree/master/youdaoflutter/Screenshot_1584941250.png)
+![Image text](https://github.com/XiaoAnXA/music_flutter/tree/master/youdaoflutter/Screenshot_1584941256.png)
+![Image text](https://github.com/XiaoAnXA/music_flutter/tree/master/youdaoflutter/Screenshot_1584941457.png)
+![Image text](https://github.com/XiaoAnXA/music_flutter/tree/master/youdaoflutter/Screenshot_1584942130.png)
